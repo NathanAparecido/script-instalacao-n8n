@@ -1,6 +1,6 @@
 # Instalador do N8N em Docker
 <p align="center">
-    <img windth="470" src="icon/whatsapp-and-telegram-getting-familiar-with-each.webp"
+    <img windth="470" src="[icon/whatsapp-and-telegram-getting-familiar-with-each.webp](https://n8n.io/)"
       </p>
 Este script automatiza a instalação do [N8N](https://n8n.io/) em um ambiente Docker. Ele foi desenvolvido para simplificar o processo de configuração do N8N, configurando o contêiner e ajustando o sistema operacional para a zona de tempo correta.
 
