@@ -1,4 +1,4 @@
-# Instalador do N8N Ultima Versão e em Docker
+# Instalador do N8N Ultima Versão em Docker
 
 Este script automatiza a instalação do [N8N](https://n8n.io/) em um ambiente Docker. Ele foi desenvolvido para simplificar o processo de configuração do N8N, configurando o contêiner e ajustando o sistema operacional para a zona de tempo correta.
 
