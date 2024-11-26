@@ -30,11 +30,11 @@ Ao finalizar a execução, o script exibirá a URL de acesso ao N8N.
 1. **Baixe o script** ou copie o código diretamente.
 2. **Dê permissão de execução** ao arquivo:
    ```bash
-   chmod +x install_n8n.sh
+   chmod +x Script-instalacao-n8n.sh
    ```
 3. Execute o script:
    ```bash
-   ./install_n8n.sh
+   ./Script-instalacao-n8n.sh
    ```
 Após a execução, você verá a mensagem com a URL para acessar o N8N.
 
