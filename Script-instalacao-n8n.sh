@@ -1,10 +1,9 @@
 #!/bin/bash
 # Instalador do N8N em Docker
-# Autor: Autotic
-# Versao: 0.236.3
+# Autor: Nathan Aparecido
 
 clear
-echo "INICIANDO SETUP DO N8N 0.236.3 ..."
+echo "INICIANDO SETUP DO N8N "
 sleep 5
 clear
 sudo apt -y update
