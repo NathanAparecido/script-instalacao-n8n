@@ -2,6 +2,7 @@
 <p align="center">
     <img windth="470" src="https://awsmp-logos.s3.amazonaws.com/seller-f2na6j24j2dui/16c08010f743d5287dd122442dd7aaf2.png"
       </p>
+
 Este script automatiza a instalação do [N8N](https://n8n.io/) em um ambiente Docker. Ele foi desenvolvido para simplificar o processo de configuração do N8N, configurando o contêiner e ajustando o sistema operacional para a zona de tempo correta.
 
 ## Como funciona
