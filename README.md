@@ -1,9 +1,10 @@
 # Instalador do N8N em Docker
+
+Este script automatiza a instalação do [N8N](https://n8n.io/) em um ambiente Docker. Ele foi desenvolvido para simplificar o processo de configuração do N8N, configurando o contêiner e ajustando o sistema operacional para a zona de tempo correta.
+
 <p align="center">
     <img windth="50" src="https://s3.typoniels.de/typoniels-strapi/production/n8n_686d33f304.webp"
       </p>
-
-Este script automatiza a instalação do [N8N](https://n8n.io/) em um ambiente Docker. Ele foi desenvolvido para simplificar o processo de configuração do N8N, configurando o contêiner e ajustando o sistema operacional para a zona de tempo correta.
 
 ## Como funciona
 
